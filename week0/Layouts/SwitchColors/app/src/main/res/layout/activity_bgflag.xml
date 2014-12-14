@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bgflag"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3"
+    android:orientation="vertical"
+    tools:context=".Bgflag">
+
+
+    <View
+        android:id="@+id/first"
+        android:text="Fun with flags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:layout_weight="1"
+        />
+
+    <View
+        android:id="@+id/second"
+        android:text="Fun with flags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_green_dark"
+        android:layout_weight="1"
+        />
+
+    <View
+        android:id="@+id/third"
+        android:text="Fun with flags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_light"
+        android:layout_weight="1"
+        />
+
+    <!--<View-->
+        <!---->
+        <!--android:text="Fun with flags"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#ff0"-->
+        <!--android:layout_weight="1"-->
+        <!--/>-->
+    <!--<View-->
+        <!--android:background="#F00000"  -->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+
+
+</LinearLayout>
