@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="appicon">Application Icon</string>
+    <string name="apkname">Application Name:</string>
+    <string name="package_name">Package Name:</string>
+    <string name="appsize">Physical Size</string>
+</resources>
